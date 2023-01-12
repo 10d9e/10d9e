@@ -2,7 +2,7 @@
 - 👀 I’m interested in cryptographic primitives and engineering, distributed consensus, golang and rust.
 - 🌱 I’m currently learning Distributed Storage Network primitives, FEVM, IPFS, Filecoin and friends
 - 💞️ I’m looking to collaborate on Protocol and/or Cryptographic Engineering
-- 📫 How to reach me: @lodgetarius_a on twitter
+- 📫 How to reach me: @lodgetarius_a on twitter, mail: lodge@protocol.ai
 
 <!---
 jlogelin/jlogelin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
