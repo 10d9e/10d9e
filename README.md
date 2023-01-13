@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jlogelin aka @lodge
-- 👀 I’m interested in cryptographic primitives and engineering, distributed consensus, golang and rust.
+- 👀 I’m interested in cryptographic primitives (especially FHE) and engineering, distributed consensus, golang and rust.
 - 🌱 I’m currently learning Distributed Storage Network primitives, FEVM, IPFS, Filecoin and friends
 - 💞️ I’m looking to collaborate on Protocol and/or Cryptographic Engineering
 - 📫 How to reach me: @lodgetarius_a on twitter, mail: lodge@protocol.ai
