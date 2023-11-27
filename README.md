@@ -1,5 +1,6 @@
-- 👋 Hi, I’m `@lodge` aka `@10d9e`
-- 👀 I’m interested in novel cryptography engineering (especially FHE, MPC and ZKP), distributed consensus, quantum computing, kittens
+- 👋 Hi, I’m `Jay`, my friends call me `@lodge` / `@10d9e`
+- ✨ I believe that privacy is a [fundamental human right](https://www.activism.net/cypherpunk/manifesto.html)
+- 👀 I’m interested in novel cryptography engineering (especially FHE, MPC and ZKP), distributed/quantum computing, kittens
 - 💻 I'm currently writing code in `golang`, `rust`, `solidity` and a little `zig` (also proficient in `nodejs`, `python`, `java`, `c`)
 - 🌱 I’m learning `zig`, quantum computing, Distributed Storage Network primitives, IPFS/libp2p, Filecoin and friends
 - 💞️ I’m looking to collaborate on Protocol and/or Cryptographic Engineering
