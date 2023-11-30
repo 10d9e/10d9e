@@ -1,4 +1,5 @@
 - 👋 Hi, I’m `Jay`, my friends call me `lodge` (`10d9e` in hex)
+- 😈 Alignment: [Chaotic Good](https://en.wikipedia.org/wiki/Alignment_(Dungeons_%26_Dragons)#Chaotic_good)
 - ✨ I believe that privacy is a [fundamental human right](https://www.activism.net/cypherpunk/manifesto.html)
 - 👀 I’m interested in novel cryptography engineering (especially FHE, MPC and ZKP), distributed/quantum computing, kittens
 - 💻 I'm currently writing code in `rust`, `golang`, `solidity` and a little `zig` (also proficient in `nodejs`, `python`, `java`, `c`)
