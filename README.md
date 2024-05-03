@@ -1,4 +1,4 @@
-- 👋 Hi, I’m `Jay`, my friends call me `lodge` (or `0x10d9e`)
+- 👋 Hi, I’m `Jay`, my friends call me `lodge`
 - 😈 Alignment: [Chaotic Good](https://en.wikipedia.org/wiki/Alignment_(Dungeons_%26_Dragons)#Chaotic_good)
 - ✨ I believe that privacy is a [fundamental human right](https://www.activism.net/cypherpunk/manifesto.html)
 - 👀 I’m interested in novel cryptography engineering (especially FHE, MPC and ZKP), distributed/quantum computing, kittens
